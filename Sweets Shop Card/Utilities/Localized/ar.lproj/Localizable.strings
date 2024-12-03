@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Sweets Shop Card
+
+  Created by Ahmed El Gndy on 03/12/2024.
+  
+*/
+"Black" = "Cairo-Black" ;
+"Bold" = "Cairo-Bold" ;
+"ExtraBold" = "Cairo-ExtraBold" ;
+"SemiBold" = "Cairo-SemiBold" ;
+"Regular" = "Cairo-Regular" ;
+"Light" = "Cairo-Light" ;
+"Medium" = "Cairo-Medium" ;
+
+//MARK : Buttons
+"checkoutBtn" = "ادفع" ;
